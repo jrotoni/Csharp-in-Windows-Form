@@ -1,0 +1,13 @@
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\bin\Debug\RotoniExer1a.exe.config
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\bin\Debug\RotoniExer1a.exe
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\bin\Debug\RotoniExer1a.pdb
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.csprojResolveAssemblyReference.cache
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.Form1.resources
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.Properties.Resources.resources
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.csproj.GenerateResource.Cache
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.exe
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.pdb
+C:\Users\Jeremy Rotoni\documents\visual studio 2015\Projects\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.Add_Kitchenware.resources
+C:\Users\Jeremy Rotoni\Desktop\RotoniExer1a\RotoniExer1a\bin\Debug\RotoniExer1a.exe.config
+C:\Users\Jeremy Rotoni\Desktop\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.exe
+C:\Users\Jeremy Rotoni\Desktop\RotoniExer1a\RotoniExer1a\obj\Debug\RotoniExer1a.pdb

@@ -1,0 +1,24 @@
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\bin\Debug\RotoniExer2.exe.config
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\bin\Debug\RotoniExer2.exe
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\bin\Debug\RotoniExer2.pdb
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.csprojResolveAssemblyReference.cache
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.Form1.resources
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.Properties.Resources.resources
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.csproj.GenerateResource.Cache
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.exe
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.pdb
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\bin\Debug\dje\RotoniExer2.resources.dll
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.Form1.dje.resources
+c:\users\jeremy rotoni\documents\visual studio 2015\Projects\RotoniExer2\RotoniExer2\obj\Debug\dje\RotoniExer2.resources.dll
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\bin\Debug\RotoniExer2.exe.config
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.exe
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.pdb
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\bin\Debug\RotoniExer2.exe
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\bin\Debug\RotoniExer2.pdb
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\bin\Debug\dje\RotoniExer2.resources.dll
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.Form1.resources
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.Properties.Resources.resources
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.Form1.dje.resources
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\RotoniExer2.csproj.GenerateResource.Cache
+C:\Users\Jeremy Rotoni\Desktop\UPOU\CMCS 204\Exercise 2 - Binary Search Tree\RotoniExer2\RotoniExer2\obj\Debug\dje\RotoniExer2.resources.dll
